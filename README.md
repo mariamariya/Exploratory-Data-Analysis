@@ -7,7 +7,7 @@ This is a project I worked on to practise my skills on Data Cleaning and Explora
 In this project,I used Python pandas and Python Matplotlib to analyze and answer business questions. The dataset contains 187,000 records broken down by Product type, Quantity Ordered,Order Date,Product Price and Purchase Address.
 
 I performed data cleaning by :
-- checking for missig values and dropping where necessary
+- checking for missing values and dropping where necessary
 - adding columns(month,sales and state) by extracting from columns provided
 - converting columns with wrong datatypes to the correct ones(to_datetime,to_numeric)
 
